@@ -743,7 +743,6 @@ After completing this TODO, your `<nav>` section should look like this:
        margin: auto;
    }
    
-   /* navigation menu */
    nav {
        background: rgb(239, 80, 41);
        margin: 0 auto;
@@ -776,7 +775,7 @@ After completing this TODO, your `<nav>` section should look like this:
        color: #fff;
    }
    
-   /* main container area beneath menu */
+   
    main {
        background: rgb(245, 238, 219);
        display: flex;
@@ -797,7 +796,7 @@ After completing this TODO, your `<nav>` section should look like this:
        padding: 15px;
    }
    
-   /* interests section styles */
+   
    #interests {
        border: 4px silver ridge;
        padding: 8px;
